@@ -1,0 +1,16 @@
+@media(min-width:800px){
+    .footer__pais{
+        display: flex;
+        justify-content: flex-start;
+    }
+     .footer__information{
+         flex-direction: row;
+     }
+    .footer__info1{
+        display: flex;
+        justify-content: flex-start;
+    }
+    .footer__info2{
+        justify-content: flex-end;
+    }
+    }

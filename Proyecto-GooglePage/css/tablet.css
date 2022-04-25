@@ -1,0 +1,15 @@
+@media(min-width:600px){
+    .footer__pais{
+        display: flex;
+        justify-content: center;
+    }
+    .footer__info1{
+        justify-content: center;
+    }
+    .footer__info2{
+        justify-content: center;
+    }
+    .footer__information{
+       flex-direction: column;
+    }
+}
